@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Flutter,JS and React Native**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android, Flutter, React**
 
-- 📫 How to reach me **ramirezalejandro7070@gmail.com**
+- 📫 How to reach me **info.whools@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
